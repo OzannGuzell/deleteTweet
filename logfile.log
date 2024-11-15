@@ -1,0 +1,6 @@
+2024-11-15 14:50:25,857 INFO  [Log] Username entered 
+2024-11-15 14:50:27,198 INFO  [Log] Password entered 
+2024-11-15 14:50:27,223 INFO  [Log] Login button clicked 
+2024-11-15 14:50:27,225 INFO  [Log] fill_information()PASSED 
+2024-11-15 14:50:29,753 INFO  [Log] select_profile()PASSED 
+2024-11-15 14:50:45,171 INFO  [Log] delete_tweet()PASSED 
